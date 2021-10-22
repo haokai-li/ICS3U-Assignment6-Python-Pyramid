@@ -4,8 +4,6 @@
 # Created on: Oct 2021
 # This Program calculates the volume of a pyramid
 
-import math
-
 
 def calculate_volume_pyramid(length, width, height):
     # This function calculates the volume of a pyramid
